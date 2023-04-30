@@ -25,6 +25,7 @@ store =  {'100000110': [{'количество': 31, 'цена': 1637}],
 
 # Пример: "Кроссовки тип 3 (Adidas) - 31 шт, стоимость 50747 руб"
 
+   # SOLUTION
 for name in titles:
  code = titles[name]
  total_price = 0
