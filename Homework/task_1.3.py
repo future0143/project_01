@@ -17,7 +17,8 @@ from calendar import monthrange
 
     # Введите номер месяца: 15
     # Такого месяца нет!
-
+    
+       # SOLUTION
 month = int(input("Введите номер месяца: "))
 if month == 1:
     print("Вы ввели январь. 31 дней")
